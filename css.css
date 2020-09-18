@@ -1,0 +1,67 @@
+.content
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.logo
+{
+    display: flex;
+    justify-content: center;
+    margin: 160px;
+    margin-bottom: auto;
+}
+
+.searchbar
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 22px;
+    border: #dddddd;
+}
+
+.searchbar input
+{
+    height: 40px;
+    width: 540px;
+    border-radius: 30px;
+    border-width: 1px;
+}
+
+.buttons
+{
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    margin: 22px
+}
+
+.searchbutton 
+{
+    display: flex;
+    margin-right: 5px;
+}
+
+.searchbutton input
+{
+    height: 35px;
+    width: 140px;
+    border: 0cm;
+    border-radius: 7px;
+}
+
+.luckybutton
+{
+    display: flex;
+    margin-left: 5px;
+}
+.luckybutton input
+{
+    height: 35px;
+    width: 140px;
+    border: 0cm;
+    border-radius: 7px;
+}
